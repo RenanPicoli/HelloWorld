@@ -10,7 +10,8 @@
 **  Environment : Atollic TrueSTUDIO(R)
 **                STMicroelectronics STM32F4xx Standard Peripherals Library
 **
-**	Objective 	: Toggle the green and blue leds each time the User button is pressed, using interruption.
+**	Objective 	: Toggle the green and blue leds each time the User button is pressed,
+**				 using interruption.
 **
 *****************************************************************************
 */
